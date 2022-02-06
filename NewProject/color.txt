@@ -1,0 +1,3 @@
+https://www.colorzilla.com/gradient-editor/    градиент
+
+http://hex2rgba.devoth.com/                    цвета
